@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  MasterStylesheetOverride="True"
+  xml:lang="en-us"
+  SourceControlBound="false"
+  Comment="This template contains several starter topics and other files intended for online HTML5 output with side navigation like a modern website. It offers a frameless, modern alternative to the more traditional tripane format. Responsive output is automatically enabled with this type of output. This means the content display changes automatically depending on the width of the screen."
+  IncludePattern="*.htm;*.html;*.css;*.fltoc;*.flpgl;*.flmsp;*.png;*.bmp;*.jpg;*.jpeg;*.tif;*.tiff;*.gif;*.swd;*.emf;*.wmf;*.xaml;*.xps;*.exps;*.hdp;*.wdp;*.dib;*.svg;*.ps;*.eps;*.pdf"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="false"
+  LastImport="2018-08-02T13:39:56.0960893-07:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/CLedbetter Practice.flprj"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/CLedbetter Practice.flprj" />
+  </Files>
+  <ExcludedFiles>
+    <Url
+      Source="../../Content/Home.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Home.htm" />
+    <Url
+      Source="../../Content/Resources/MasterPages/OtherTopics.flmsp"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Styles.css"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Stylesheets/Styles.css" />
+  </ExcludedFiles>
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../CLedbetter Practice/Content/Home.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Home.htm" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Secret File.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Secret File.htm" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/A_Introduction Topics/GettingStarted.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/A_Introduction Topics/GettingStarted.htm" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/A_Introduction Topics/MoreInformation.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/A_Introduction Topics/MoreInformation.htm" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/A_Introduction Topics/WhatsNew.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/A_Introduction Topics/WhatsNew.htm" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Heroes of the Storm/List of Heroes.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Heroes of the Storm/List of Heroes.htm" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Heroes of the Storm/Assassins/Cho'Gall.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Heroes of the Storm/Assassins/Cho'Gall.htm" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Heroes of the Storm/Assassins/Genji.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Heroes of the Storm/Assassins/Genji.htm" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Heroes of the Storm/Specialists/Azmodan.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Heroes of the Storm/Specialists/Azmodan.htm" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Heroes of the Storm/Specialists/Sgt. Hammer.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Heroes of the Storm/Specialists/Sgt. Hammer.htm" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Heroes of the Storm/Support/Li Li.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Heroes of the Storm/Support/Li Li.htm" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Heroes of the Storm/Support/Lucio.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Heroes of the Storm/Support/Lucio.htm" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Heroes of the Storm/Warriors/Blaze.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Heroes of the Storm/Warriors/Blaze.htm" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Heroes of the Storm/Warriors/Tyreal.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Heroes of the Storm/Warriors/Tyreal.htm" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/Hero-Background.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/Hero-Background.jpg" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/icon-checkbox.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/icon-checkbox.png" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/icon-download.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/icon-download.png" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/icon-forum.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/icon-forum.png" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/icon-gears.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/icon-gears.png" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/icon-pdfs.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/icon-pdfs.png" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/icon-popularTopics.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/icon-popularTopics.png" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/icon-videos.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/icon-videos.png" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/minus.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/minus.png" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/PlaceholderLogo-white.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/PlaceholderLogo-white.png" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/plus.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/plus.png" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/Heroes Images/Azmodan.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/Heroes Images/Azmodan.jpg" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/Heroes Images/Blaze.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/Heroes Images/Blaze.jpg" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/Heroes Images/Cho'Gall.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/Heroes Images/Cho'Gall.jpg" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/Heroes Images/Genji.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/Heroes Images/Genji.jpg" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/Heroes Images/Li Li.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/Heroes Images/Li Li.jpg" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/Heroes Images/Lucio.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/Heroes Images/Lucio.jpg" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/Heroes Images/Sgt. Hammer.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/Heroes Images/Sgt. Hammer.jpg" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Images/Heroes Images/Tyrael.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Images/Heroes Images/Tyrael.jpg" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/MasterPages/HomePage.flmsp"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/MasterPages/HomePage.flmsp" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/MasterPages/OtherTopics.flmsp"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/Stylesheets/Styles.css"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="../../../CLedbetter Practice/Content/Resources/TableStylesheets/Standard.css"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Content/Resources/TableStylesheets/Standard.css" />
+    <Url
+      Source="../../../CLedbetter Practice/Project/TOCs/Master.fltoc"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Project/TOCs/Master.fltoc" />
+    <Url
+      Source="../../../CLedbetter Practice/Project/TOCs/MiniTOC.fltoc"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/CLedbetter Practice/Project/TOCs/MiniTOC.fltoc" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Home.htm"
+      TimeStamp="7/26/2018 2:52:01 PM" />
+    <Url
+      Source="../../Content/Secret File.htm"
+      TimeStamp="7/26/2018 2:52:05 PM" />
+    <Url
+      Source="../../Content/A_Introduction Topics/GettingStarted.htm"
+      TimeStamp="7/26/2018 2:51:59 PM" />
+    <Url
+      Source="../../Content/A_Introduction Topics/MoreInformation.htm"
+      TimeStamp="7/26/2018 2:52:00 PM" />
+    <Url
+      Source="../../Content/A_Introduction Topics/WhatsNew.htm"
+      TimeStamp="7/26/2018 2:52:00 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/List of Heroes.htm"
+      TimeStamp="7/26/2018 2:52:00 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Assassins/Cho'Gall.htm"
+      TimeStamp="7/26/2018 2:52:00 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Assassins/Genji.htm"
+      TimeStamp="7/26/2018 2:52:00 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Specialists/Azmodan.htm"
+      TimeStamp="7/26/2018 2:52:00 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Specialists/Sgt. Hammer.htm"
+      TimeStamp="7/26/2018 2:52:00 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Support/Li Li.htm"
+      TimeStamp="7/26/2018 2:52:01 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Support/Lucio.htm"
+      TimeStamp="7/26/2018 2:52:01 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Warriors/Blaze.htm"
+      TimeStamp="7/26/2018 2:52:01 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Warriors/Tyreal.htm"
+      TimeStamp="7/26/2018 2:52:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Hero-Background.jpg"
+      TimeStamp="7/26/2018 2:52:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/icon-checkbox.png"
+      TimeStamp="7/26/2018 2:52:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/icon-download.png"
+      TimeStamp="7/26/2018 2:52:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/icon-forum.png"
+      TimeStamp="7/26/2018 2:52:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/icon-gears.png"
+      TimeStamp="7/26/2018 2:52:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/icon-pdfs.png"
+      TimeStamp="7/26/2018 2:52:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/icon-popularTopics.png"
+      TimeStamp="7/26/2018 2:52:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/icon-videos.png"
+      TimeStamp="7/26/2018 2:52:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/minus.png"
+      TimeStamp="7/26/2018 2:52:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/PlaceholderLogo-white.png"
+      TimeStamp="7/26/2018 2:52:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/plus.png"
+      TimeStamp="7/26/2018 2:52:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Azmodan.jpg"
+      TimeStamp="7/26/2018 2:52:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Blaze.jpg"
+      TimeStamp="7/26/2018 2:52:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Cho'Gall.jpg"
+      TimeStamp="7/26/2018 2:52:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Genji.jpg"
+      TimeStamp="7/26/2018 2:52:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Li Li.jpg"
+      TimeStamp="7/26/2018 2:52:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Lucio.jpg"
+      TimeStamp="7/26/2018 2:52:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Sgt. Hammer.jpg"
+      TimeStamp="7/26/2018 2:52:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Tyrael.jpg"
+      TimeStamp="7/26/2018 2:52:03 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/HomePage.flmsp"
+      TimeStamp="7/26/2018 2:52:04 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/OtherTopics.flmsp"
+      TimeStamp="7/26/2018 2:52:04 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Styles.css"
+      TimeStamp="7/26/2018 2:52:05 PM" />
+    <Url
+      Source="../../Content/Resources/TableStylesheets/Standard.css"
+      TimeStamp="7/26/2018 2:52:05 PM" />
+    <Url
+      Source="../TOCs/Master.fltoc"
+      TimeStamp="7/26/2018 2:53:18 PM" />
+    <Url
+      Source="../TOCs/MiniTOC.fltoc"
+      TimeStamp="7/26/2018 2:53:18 PM" />
+  </GeneratedFiles>
+</CatapultProject>

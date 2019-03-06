@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  xml:lang="en-us"
+  SourceControlBound="false"
+  Comment="This template contains several starter topics and other files intended for online HTML5 output with top navigation like a modern website, instead of the more traditional tripane format. It is a simpler version of the Top Navigation Advanced template. Although it is a basic template, the content and files have been designed to maximize single-sourcing capabilities. This template starts you out with two HTML5 targets. Responsive output is automatically enabled with this type of output. This means the content display changes automatically depending on the width of the screen. You can add other kinds of targets and skins if you like."
+  MasterStylesheetOverride="True"
+  IncludePattern="*.*"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="false"
+  LastImport="2019-03-01T07:28:30.6665518-08:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/cardiff.flprj"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/cardiff.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../cardiff/Content/Nameyoulike.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Nameyoulike.htm" />
+    <Url
+      Source="../../../cardiff/Content/Search-Results.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Search-Results.htm" />
+    <Url
+      Source="../../../cardiff/Content/Secret File.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Secret File.htm" />
+    <Url
+      Source="../../../cardiff/Content/A_Introduction Topics/GettingStarted.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/A_Introduction Topics/GettingStarted.htm" />
+    <Url
+      Source="../../../cardiff/Content/A_Introduction Topics/MoreInformation.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/A_Introduction Topics/MoreInformation.htm" />
+    <Url
+      Source="../../../cardiff/Content/A_Introduction Topics/WhatsNew.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/A_Introduction Topics/WhatsNew.htm" />
+    <Url
+      Source="../../../cardiff/Content/Core Styles/edit-mode-21.css"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Core Styles/edit-mode-21.css" />
+    <Url
+      Source="../../../cardiff/Content/Core Styles/page-layouts-21.css"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Core Styles/page-layouts-21.css" />
+    <Url
+      Source="../../../cardiff/Content/Core Styles/rca.css"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Core Styles/rca.css" />
+    <Url
+      Source="../../../cardiff/Content/Heroes of the Storm/List of Heroes.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Heroes of the Storm/List of Heroes.htm" />
+    <Url
+      Source="../../../cardiff/Content/Heroes of the Storm/Assassins/Cho'Gall.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Heroes of the Storm/Assassins/Cho'Gall.htm" />
+    <Url
+      Source="../../../cardiff/Content/Heroes of the Storm/Assassins/Genji.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Heroes of the Storm/Assassins/Genji.htm" />
+    <Url
+      Source="../../../cardiff/Content/Heroes of the Storm/Specialists/Azmodan.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Heroes of the Storm/Specialists/Azmodan.htm" />
+    <Url
+      Source="../../../cardiff/Content/Heroes of the Storm/Specialists/Sgt. Hammer.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Heroes of the Storm/Specialists/Sgt. Hammer.htm" />
+    <Url
+      Source="../../../cardiff/Content/Heroes of the Storm/Support/Li Li.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Heroes of the Storm/Support/Li Li.htm" />
+    <Url
+      Source="../../../cardiff/Content/Heroes of the Storm/Support/Lucio.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Heroes of the Storm/Support/Lucio.htm" />
+    <Url
+      Source="../../../cardiff/Content/Heroes of the Storm/Warriors/Blaze.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Heroes of the Storm/Warriors/Blaze.htm" />
+    <Url
+      Source="../../../cardiff/Content/Heroes of the Storm/Warriors/Tyreal.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Heroes of the Storm/Warriors/Tyreal.htm" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/Hero-Background.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/Hero-Background.jpg" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/icon-checkbox.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/icon-checkbox.png" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/icon-download.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/icon-download.png" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/icon-forum.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/icon-forum.png" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/icon-gears.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/icon-gears.png" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/icon-pdfs.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/icon-pdfs.png" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/icon-popularTopics.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/icon-popularTopics.png" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/icon-videos.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/icon-videos.png" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/minus.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/minus.png" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/PlaceholderLogo-white.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/PlaceholderLogo-white.png" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/plus.png"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/plus.png" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/Heroes Images/Azmodan.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/Heroes Images/Azmodan.jpg" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/Heroes Images/Blaze.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/Heroes Images/Blaze.jpg" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/Heroes Images/Cho'Gall.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/Heroes Images/Cho'Gall.jpg" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/Heroes Images/Genji.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/Heroes Images/Genji.jpg" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/Heroes Images/Li Li.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/Heroes Images/Li Li.jpg" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/Heroes Images/Lucio.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/Heroes Images/Lucio.jpg" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/Heroes Images/Sgt. Hammer.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/Heroes Images/Sgt. Hammer.jpg" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Images/Heroes Images/Tyrael.jpg"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Images/Heroes Images/Tyrael.jpg" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Snippets/Closing Snippet.flsnp"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Snippets/Closing Snippet.flsnp" />
+    <Url
+      Source="../../../cardiff/Content/Resources/Stylesheets/Styles.css"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="../../../cardiff/Content/Resources/TableStyles/Closing.css"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/TableStyles/Closing.css" />
+    <Url
+      Source="../../../cardiff/Content/Resources/TableStylesheets/Standard.css"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/TableStylesheets/Standard.css" />
+    <Url
+      Source="../../../cardiff/Content/Themable/Core Styles/controls.css"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Themable/Core Styles/controls.css" />
+    <Url
+      Source="../../../cardiff/Content/Themable/Core Styles/controls15.css"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Themable/Core Styles/controls15.css" />
+    <Url
+      Source="../../../cardiff/Content/Themable/Core Styles/editmode15.css"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Themable/Core Styles/editmode15.css" />
+    <Url
+      Source="../../../cardiff/Content/Themable/Core Styles/htmleditorstyles.css"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Themable/Core Styles/htmleditorstyles.css" />
+    <Url
+      Source="../../../cardiff/Content/Themable/Core Styles/pagelayouts15.css"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Themable/Core Styles/pagelayouts15.css" />
+    <Url
+      Source="../../../cardiff/Project/ConditionTagSets/Default.flcts"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Project/ConditionTagSets/Default.flcts" />
+    <Url
+      Source="../../../cardiff/Project/Imports/CLedbetter Practice.flimpfl"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Project/Imports/CLedbetter Practice.flimpfl" />
+    <Url
+      Source="../../../cardiff/Project/Skins/HTML5 - Side Navigation.flskn"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Project/Skins/HTML5 - Side Navigation.flskn" />
+    <Url
+      Source="../../../cardiff/Project/Skins/Topic Toolbar.flskn"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Project/Skins/Topic Toolbar.flskn" />
+    <Url
+      Source="../../../cardiff/Project/Targets/HTML5 - Side Navigation.fltar"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Project/Targets/HTML5 - Side Navigation.fltar" />
+    <Url
+      Source="../../../cardiff/Project/TOCs/MiniTOC.fltoc"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Project/TOCs/MiniTOC.fltoc" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="../../../cardiff/Content/Cardiff Template Reference Document.pdf"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Cardiff Template Reference Document.pdf" />
+    <Url
+      Source="../../../cardiff/Content/Home.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Home.htm" />
+    <Url
+      Source="../../../cardiff/Content/B_Feature Topics/Feature1.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/B_Feature Topics/Feature1.htm" />
+    <Url
+      Source="../../../cardiff/Content/B_Feature Topics/Feature2.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/B_Feature Topics/Feature2.htm" />
+    <Url
+      Source="../../../cardiff/Content/B_Feature Topics/Feature3.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/B_Feature Topics/Feature3.htm" />
+    <Url
+      Source="../../../cardiff/Content/B_Feature Topics/Features.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/B_Feature Topics/Features.htm" />
+    <Url
+      Source="../../../cardiff/Content/C_Procedure Topics/Procedure1.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/C_Procedure Topics/Procedure1.htm" />
+    <Url
+      Source="../../../cardiff/Content/C_Procedure Topics/Procedure2.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/C_Procedure Topics/Procedure2.htm" />
+    <Url
+      Source="../../../cardiff/Content/C_Procedure Topics/Procedure3.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/C_Procedure Topics/Procedure3.htm" />
+    <Url
+      Source="../../../cardiff/Content/C_Procedure Topics/Procedures.htm"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/C_Procedure Topics/Procedures.htm" />
+    <Url
+      Source="../../../cardiff/Content/Resources/MasterPages/HomePage.flmsp"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/MasterPages/HomePage.flmsp" />
+    <Url
+      Source="../../../cardiff/Content/Resources/MasterPages/OtherTopics.flmsp"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Url
+      Source="../../../cardiff/Project/TOCs/Master.fltoc"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Project/TOCs/Master.fltoc" />
+    <Url
+      Source="../../../cardiff/Project/VariableSets/General.flvar"
+      AbsoluteSource="file:///C:/Users/cledbetter/Documents/MY FLARE PROJECTS/cardiff/Project/VariableSets/General.flvar" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Nameyoulike.htm"
+      TimeStamp="9/4/2018 2:16:40 PM" />
+    <Url
+      Source="../../Content/Search-Results.htm"
+      TimeStamp="8/2/2018 1:26:48 PM" />
+    <Url
+      Source="../../Content/Secret File.htm"
+      TimeStamp="7/26/2018 2:52:05 PM" />
+    <Url
+      Source="../../Content/A_Introduction Topics/GettingStarted.htm"
+      TimeStamp="9/4/2018 10:40:14 AM" />
+    <Url
+      Source="../../Content/A_Introduction Topics/MoreInformation.htm"
+      TimeStamp="8/3/2018 1:15:32 PM" />
+    <Url
+      Source="../../Content/A_Introduction Topics/WhatsNew.htm"
+      TimeStamp="8/3/2018 1:14:41 PM" />
+    <Url
+      Source="../../Content/Core Styles/edit-mode-21.css"
+      TimeStamp="8/3/2018 8:22:44 AM" />
+    <Url
+      Source="../../Content/Core Styles/page-layouts-21.css"
+      TimeStamp="8/3/2018 8:22:47 AM" />
+    <Url
+      Source="../../Content/Core Styles/rca.css"
+      TimeStamp="8/3/2018 8:22:53 AM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/List of Heroes.htm"
+      TimeStamp="7/26/2018 2:52:00 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Assassins/Cho'Gall.htm"
+      TimeStamp="7/26/2018 2:52:00 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Assassins/Genji.htm"
+      TimeStamp="7/26/2018 2:52:00 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Specialists/Azmodan.htm"
+      TimeStamp="7/26/2018 2:52:00 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Specialists/Sgt. Hammer.htm"
+      TimeStamp="7/26/2018 2:52:00 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Support/Li Li.htm"
+      TimeStamp="7/26/2018 2:52:01 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Support/Lucio.htm"
+      TimeStamp="7/26/2018 2:52:01 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Warriors/Blaze.htm"
+      TimeStamp="7/26/2018 2:52:01 PM" />
+    <Url
+      Source="../../Content/Heroes of the Storm/Warriors/Tyreal.htm"
+      TimeStamp="7/26/2018 2:52:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Hero-Background.jpg"
+      TimeStamp="7/26/2018 2:52:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/icon-checkbox.png"
+      TimeStamp="7/26/2018 2:52:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/icon-download.png"
+      TimeStamp="7/26/2018 2:52:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/icon-forum.png"
+      TimeStamp="7/26/2018 2:52:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/icon-gears.png"
+      TimeStamp="7/26/2018 2:52:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/icon-pdfs.png"
+      TimeStamp="7/26/2018 2:52:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/icon-popularTopics.png"
+      TimeStamp="7/26/2018 2:52:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/icon-videos.png"
+      TimeStamp="7/26/2018 2:52:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/minus.png"
+      TimeStamp="7/26/2018 2:52:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/PlaceholderLogo-white.png"
+      TimeStamp="7/26/2018 2:52:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/plus.png"
+      TimeStamp="7/26/2018 2:52:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Azmodan.jpg"
+      TimeStamp="7/26/2018 2:52:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Blaze.jpg"
+      TimeStamp="7/26/2018 2:52:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Cho'Gall.jpg"
+      TimeStamp="7/26/2018 2:52:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Genji.jpg"
+      TimeStamp="7/26/2018 2:52:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Li Li.jpg"
+      TimeStamp="7/26/2018 2:52:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Lucio.jpg"
+      TimeStamp="7/26/2018 2:52:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Sgt. Hammer.jpg"
+      TimeStamp="7/26/2018 2:52:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Heroes Images/Tyrael.jpg"
+      TimeStamp="7/26/2018 2:52:03 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/Closing Snippet.flsnp"
+      TimeStamp="7/13/2018 7:49:49 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Styles.css"
+      TimeStamp="8/6/2018 1:07:22 PM" />
+    <Url
+      Source="../../Content/Resources/TableStyles/Closing.css"
+      TimeStamp="7/13/2018 7:49:49 AM" />
+    <Url
+      Source="../../Content/Resources/TableStylesheets/Standard.css"
+      TimeStamp="7/26/2018 2:52:05 PM" />
+    <Url
+      Source="../../Content/Themable/Core Styles/controls.css"
+      TimeStamp="8/3/2018 8:22:57 AM" />
+    <Url
+      Source="../../Content/Themable/Core Styles/controls15.css"
+      TimeStamp="8/3/2018 8:23:01 AM" />
+    <Url
+      Source="../../Content/Themable/Core Styles/editmode15.css"
+      TimeStamp="8/3/2018 8:23:08 AM" />
+    <Url
+      Source="../../Content/Themable/Core Styles/htmleditorstyles.css"
+      TimeStamp="8/3/2018 8:23:12 AM" />
+    <Url
+      Source="../../Content/Themable/Core Styles/pagelayouts15.css"
+      TimeStamp="8/3/2018 8:23:18 AM" />
+    <Url
+      Source="../ConditionTagSets/Default.flcts"
+      TimeStamp="8/2/2018 1:26:48 PM" />
+    <Url
+      Source="CLedbetter Practice.flimpfl"
+      TimeStamp="8/6/2018 1:02:14 PM" />
+    <Url
+      Source="../Skins/HTML5 - Side Navigation.flskn"
+      TimeStamp="8/2/2018 1:26:48 PM" />
+    <Url
+      Source="../Skins/Topic Toolbar.flskn"
+      TimeStamp="8/2/2018 1:26:48 PM" />
+    <Url
+      Source="../Targets/HTML5 - Side Navigation.fltar"
+      TimeStamp="9/4/2018 2:16:34 PM" />
+    <Url
+      Source="../TOCs/MiniTOC.fltoc"
+      TimeStamp="7/26/2018 2:53:18 PM" />
+  </GeneratedFiles>
+</CatapultProject>
