@@ -1,5 +1,7 @@
 /*<meta />*/
 
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+
 /*===========================================================================================================================================================
 
 Hello! If this is your first time looking at a stylesheet within the text editor view, what you are reading right now is a "comment". Comments are added throughout this stylesheet with the purpose of making the source code easier to understand, comments will not be interpreted during the compile process. Since comments are not interpreted during the compile process, feel free to add or remove any comments.
@@ -250,7 +252,7 @@ Styles after this point are styles that are for specific mediums. If any additio
 [@media mobile] declares styles that will apply when the screen is in mobile view
 ===========================================================================================================================================================*/
 
-@media tablet
+@media only screen and (max-width: 1279px)
 {
 	.row.nav-search
 	{
@@ -274,7 +276,7 @@ Styles after this point are styles that are for specific mediums. If any additio
 	}
 }
 
-@media mobile
+@media only screen and (max-width: 767px)
 {
 	div.top-bar
 	{

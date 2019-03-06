@@ -1,4 +1,6 @@
-﻿/*<meta />*/
+/*<meta />*/
+
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
 
 body
 {
@@ -337,7 +339,7 @@ div.home-footer
 	padding: 2% 5%;
 }
 
-@media tablet
+@media only screen and (max-width: 1279px)
 {
 	html.home-topic .body-container
 	{
@@ -399,7 +401,7 @@ div.home-footer
 	}
 }
 
-@media mobile
+@media only screen and (max-width: 767px)
 {
 	div.home-tiles > div:nth-child(1)
 	{
@@ -473,28 +475,36 @@ li p
 	list-style-type: lower-alpha;
 }
 
-/* Keep the footer from moving from the bottom of the page with position/height/bottom settings. Height is required so that the spacing can be removed from the div.body*/div.footer
+/* Keep the footer from moving from the bottom of the page with position/height/bottom settings. Height is required so that the spacing can be removed from the div.body*/
 
+div.footer
 {
-margin-top:2em;
+	margin-top: 2em;
 	position: absolute;
 	height: 150px;
 	bottom: 0;
 	width: 100%;
 }
+
 /* Make modifications to the full page, to stretch the content and footer full screen */
+
 .main-section > .row.outer-row
 {
 	max-width: 100%;
 }
+
 .row.outer-row
 {
 	padding-left: 0px;
-padding-right: 0px;
+	padding-right: 0px;
 }
+
 /* Finally, another div is needed to structure the actual content between the header/footer. This can probably be done in several ways, but the following is one option. The margin-bottom setting here should match the footer height set above. The margin-left and right can be adjusted based on preference. */
-div.body{
+
+div.body
+{
 	margin-left: 25%;
 	margin-right: 25%;
 	margin-bottom: 150px;
 }
+
