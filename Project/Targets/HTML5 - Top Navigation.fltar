@@ -22,6 +22,10 @@
     GenerateTOCProxy="true"
     GenerateIndexProxy="true"
     GenerateGlossaryProxy="true" />
-  <Destinations> </Destinations>
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/GitSSH.fldes"
+      Publish="true" />
+  </Destinations>
   <PostBuild>for %I in (C:\Users\cledbetter\Desktop\Small-Doggo.jpg) do copy %I "$(OutputDirectory)"</PostBuild>
 </CatapultTarget>
